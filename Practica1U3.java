@@ -13,7 +13,7 @@ public class U3Practica1 {
         System.out.println("Ingrese un numero entero");
         int num=scanner.nextInt();  
         if (num%2==0){
-            System.out.println("El2 numero es par");
+            System.out.println("El numero es par");
         }
         else{
             System.out.println("El numero no es par");
